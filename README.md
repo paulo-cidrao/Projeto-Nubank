@@ -1,2 +1,2 @@
 # Projeto-Nubank
-Esse é o meu primeiro projento usando HTML e o CSS
+Esse é o meu primeiro projeto usando HTML e CSS.
